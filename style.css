@@ -194,8 +194,8 @@ h4{
 .title h2{
 	color: white;
 	font-size: 7.5rem;
-	width: 113.0rem;
-	margin: 3.0rem auto;
+	/* width: 113.0rem; */
+	margin: 3.0rem ;
 	text-align: center;
 }
 .box{
