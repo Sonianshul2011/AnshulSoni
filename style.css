@@ -403,9 +403,9 @@ footer p:nth-child(2){
 		overflow: auto;
 	}
 }
-@media(max-width: 768px){
+@media(max-width: 1000px){
 	.hero{
-		background-image: url('anshul\ background\ mob.jpg');
+		background-image: url('background\ mob.jpg');
 	}
 }
 
